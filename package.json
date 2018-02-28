@@ -1,6 +1,6 @@
 {
   "name": "install-eslint",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "This program will enable users to install and set up eslint in their node project.",
   "main": "cli.js",
   "scripts": {
