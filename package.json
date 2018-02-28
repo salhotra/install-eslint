@@ -1,6 +1,6 @@
 {
   "name": "install-eslint",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "This program will enable users to install and set up eslint in their node project.",
   "main": "cli.js",
   "scripts": {
@@ -10,5 +10,8 @@
     "eslint"
   ],
   "author": "Nishant Salhotra",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "salhotra-eslint": "./cli.js"
+  }
 }
