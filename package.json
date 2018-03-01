@@ -13,5 +13,10 @@
   "license": "MIT",
   "bin": {
     "salhotra-eslint": "./cli.js"
+  },
+  "dependencies": {
+    "open": "^0.0.5",
+    "shelljs": "^0.8.1",
+    "yargs": "^11.0.0"
   }
 }
