@@ -12,9 +12,13 @@ This package will install the following packages:
 
 ## usage
 1. Install the package globally.
+    ```
     npm install -g install-eslint
+    ```
 
 2. In the root directory of your project, run:
+    ```
     salhotra-eslint
+    ```
 
 The above command will also create a .eslintrc file to get you up and running.
